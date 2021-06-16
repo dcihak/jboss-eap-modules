@@ -13,6 +13,7 @@
         <layers>
             <include name="cloud-server"/>
             <include name="postgresql-datasource"/>
+            <include name="ejb"/>
         </layers>
     </config>
     <options>
